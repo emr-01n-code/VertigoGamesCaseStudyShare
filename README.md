@@ -11,8 +11,8 @@ It is developed to demonstrate clean architecture, event-driven gameplay systems
 - **Event-Driven Architecture**  
   All major systems communicate through a custom event system, keeping gameplay logic decoupled and modular.
 
-- **Dynamic Wheel of Fortune System**  
-  The wheel content changes based on zone progression (Bronze / Safe / Super zones), with configurable reward items and bomb logic.
+- **Zone-Based Wheel Logic**  
+  Wheel content adapts to the current zone state (Bronze / Safe / Super), with configurable reward items and zone-specific bomb rules.
 
 - **Zone Progression System**  
   Zones increase only on successful spins.  
@@ -38,8 +38,8 @@ It is developed to demonstrate clean architecture, event-driven gameplay systems
 - **Sprite Atlas Optimization**  
   All item icons are packed using Unity Sprite Atlas.
 
-- **Smooth UI & Animations**  
-  UI transitions and wheel rotation are animated using DOTween.
+- **Wheel Animations**  
+  Wheel rotation is animated using DOTween.
 
 ---
 
