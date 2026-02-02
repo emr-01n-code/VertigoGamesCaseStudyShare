@@ -47,7 +47,6 @@ sysinfo.txt
 # =========================
 # Build outputs
 # =========================
-*.apk
 *.aab
 *.app
 *.unitypackage
