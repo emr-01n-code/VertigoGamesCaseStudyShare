@@ -53,9 +53,16 @@ It is developed to demonstrate clean architecture, event-driven gameplay systems
 - No Unity Inspector OnClick usage  
   (All button bindings are handled via scripts)
 - Fully responsive UI tested on:
-  - 20:9
-  - 16:9
+  - 20:9 aspect ratio
+![20:9](ProjectMedia/ratio_20_9_ss_1.png)
+![20:9](ProjectMedia/ratio_20_9_ss_2.png)
+  - 16:9 aspect ratio
+![16:9](ProjectMedia/ratio_16_9_ss_1.png)
+![16:9](ProjectMedia/ratio_16_9_ss_2.png)
+![16:9](ProjectMedia/ratio_16_9_ss_3.png)
   - 4:3 aspect ratios
+![4:3](ProjectMedia/ratio_4_3_ss_1.png)
+![4:3](ProjectMedia/ratio_4_3_ss_2.png)
 
 ---
 
